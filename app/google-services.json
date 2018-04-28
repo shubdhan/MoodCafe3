@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "372095076392",
+    "firebase_url": "https://moodcafe3.firebaseio.com",
+    "project_id": "moodcafe3",
+    "storage_bucket": "moodcafe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372095076392:android:0243ff2fcc3c5cb7",
+        "android_client_info": {
+          "package_name": "com.moodcafe.moodcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372095076392-da7jtrnmolaiolhpjrcjk48n29o5tod2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moodcafe.moodcafe",
+            "certificate_hash": "8dd91ebece1cea5b762bae891125966df57b2f1f"
+          }
+        },
+        {
+          "client_id": "372095076392-4ekq1hr24vmukd84d0ad7u19qjh59ril.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMGXn8oAfdT0Ecx8xlszcTsCIGJR5dsyA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372095076392-4ekq1hr24vmukd84d0ad7u19qjh59ril.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
